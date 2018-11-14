@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="CEO validate">
+ <run>
+  <RunDate>2018-11-14 11:03:30.305 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>0.078000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20181114_110330.305/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

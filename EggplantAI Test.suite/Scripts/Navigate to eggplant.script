@@ -1,0 +1,9 @@
+(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2018-11-13 15:45:20
+  From session:  Navigate to eggplant
+  Captured on:  2018-11-13 15:43:30
+  From server:  NASHUA17
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+
+DoubleClick "Chrome"
+TypeText "eggplant.io",Return

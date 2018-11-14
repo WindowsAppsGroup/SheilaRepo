@@ -1,0 +1,5 @@
+﻿if imagefound ("CustomerExperienceOptimization")
+	logsuccess "CEO image found"
+else
+	logerror "CEO page not opened"
+end if

@@ -1,0 +1,5 @@
+﻿2018-11-13 15:45:35.346 -0500	START		Running Navigate to eggplant.script
+2018-11-13 15:45:35.548 -0500	doubleclick	Chrome	at (39, 625)	8	on_navigate_to_eggplant	Navigate to eggplant.script
+2018-11-13 15:45:36.410 -0500	typetext		eggplant.io[return]	9	on_navigate_to_eggplant	Navigate to eggplant.script
+2018-11-13 15:45:36.501 -0500	EndTestCase		(Duration:"1.145", Errors:"0", Exceptions:"0", StartTime:"2018-11-13 15:45:35 -0500", Successes:"1", TestCase:"Navigate to eggplant.script", Warnings:"0")
+2018-11-13 15:45:36.646 -0500	SUCCESS		Execution Time 0:00:01 Navigate to eggplant.script

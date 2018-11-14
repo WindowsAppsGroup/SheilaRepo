@@ -1,0 +1,5 @@
+﻿if imagefound ("LoadTesting")
+	logsuccess "Performance& Load testing image found"
+else
+	logerror "Load testing page not opened"
+end if

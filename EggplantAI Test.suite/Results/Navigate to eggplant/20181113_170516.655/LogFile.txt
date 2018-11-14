@@ -1,0 +1,1 @@
+﻿2018-11-13 17:05:16.655 -0500	START		Running Navigate to eggplant.script	1	execute string	(null)

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Navigate to eggplant_script" package="EggplantAI Test.suite" timestamp="2018-11-13 17:03:13.017 -0500"
+ tests="1"  failures="0" errors="0" time="16.351000">
+  <properties>
+   <property name="RunDate" value="2018-11-13 17:03:13.017 -0500"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="Navigate to eggplant.script" assertions="1" status="error"  time="16.343">
+    <error type="Exception" message="No Image Found On Screen: &quot;Chrome&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

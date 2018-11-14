@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Clean Up_script" package="EggplantAI Test.suite" timestamp="2018-11-14 11:16:20.009 -0500"
+ tests="1"  failures="0" errors="0" time="0.072000">
+  <properties>
+   <property name="RunDate" value="2018-11-14 11:16:20.009 -0500"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Clean Up.script" assertions="1" status="success"  time="0.041">
+  </testcase>
+ </testsuite>
+</testsuites>

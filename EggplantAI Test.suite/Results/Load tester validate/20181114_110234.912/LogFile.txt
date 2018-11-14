@@ -1,0 +1,5 @@
+﻿2018-11-14 11:02:34.915 -0500	START		Running Load tester validate.script	1	execute string	(null)
+2018-11-14 11:02:34.981 -0500	imagefound	LoadTesting	found at (492, 335)	1	on_load_tester_validate	Load tester validate.script
+2018-11-14 11:02:35.043 -0500	LogSuccess		Performance& Load testing image found	2	on_load_tester_validate	Load tester validate.script
+2018-11-14 11:02:35.059 -0500	EndTestCase		(Duration:"0.141", Errors:"0", Exceptions:"0", StartTime:"2018-11-14 11:02:34 -0500", Successes:"1", TestCase:"Load tester validate.script", Warnings:"0")	1	execute string	(null)
+2018-11-14 11:02:35.263 -0500	SUCCESS		Execution Time 0:00:01 Load tester validate.script	1	execute string	(null)

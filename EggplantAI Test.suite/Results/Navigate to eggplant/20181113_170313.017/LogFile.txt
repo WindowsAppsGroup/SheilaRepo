@@ -1,0 +1,4 @@
+﻿2018-11-13 17:03:13.020 -0500	START		Running Navigate to eggplant.script	1	execute string	(null)
+2018-11-13 17:03:29.353 -0500	Exception	Chrome	No Image Found On Screen: "Chrome"	8	on_navigate_to_eggplant	Navigate to eggplant.script
+2018-11-13 17:03:29.368 -0500	EndTestCase		(Duration:"16.343", Errors:"1", Exceptions:"1", StartTime:"2018-11-13 17:03:13 -0500", Successes:"0", TestCase:"Navigate to eggplant.script", Warnings:"0")	1	execute string	(null)
+2018-11-13 17:03:29.437 -0500	ABORTED		Execution Time 0:00:16 Navigate to eggplant.script	1	execute string	(null)

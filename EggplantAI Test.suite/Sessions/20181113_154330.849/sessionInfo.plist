@@ -1,0 +1,9 @@
+{
+    adaptiveConstant = <*I7>;
+    commandList = "[{captureRect:[0, 80, 157, 173], elementName:\"Chrome\", eventNum:2, folderPath:\"\", hotSpot:[31.30572, 622.484211], imageName:\"Chrome\", itemEvent:\"TurboListItemEvent_Click\", itemMode:\"TurboListItemMode_Existing\", itemType:\"TurboListItemType_Image\", screenShotFile:\"Screen0002.png\", searchType:\"Tolerant\", skipStep:1, userModified:0, usingTempImageName:1, waitForTime:-1}, {captureRect:[0, 80, 157, 173], elementName:\"Chrome\", eventNum:4, folderPath:\"\", hotSpot:[31.30572, 622.484211], imageName:\"Chrome\", itemEvent:\"TurboListItemEvent_DoubleClick\", itemMode:\"TurboListItemMode_Existing\", itemType:\"TurboListItemType_Image\", screenShotFile:\"Screen0004.png\", searchType:\"Tolerant\", skipStep:0, userModified:0, usingTempImageName:0, waitForTime:-1}, {captureRect:[0, 0, 0, 0], elementName:\"UNKNOWN\", eventNum:8, folderPath:\"\", imageName:\"\", itemEvent:\"TurboListItemEvent_TypeText\", itemMode:\"TurboListItemMode_New\", itemType:\"TurboListItemType_TypeText\", screenShotFile:\"Screen0008.png\", skipStep:0, text:@\"\\\"eggplant.io\\\",Return\", userModified:0, usingTempImageName:1, waitForTime:-1}]";
+    dilations = <*I3>;
+    maxSize = <*I300>;
+    minSize = <*I16>;
+    savedWithEpfVersion = <*I1808021011>;
+    sessionType = turboSession;
+}

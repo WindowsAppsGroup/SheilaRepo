@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Navigate to eggplant_script" package="EggplantAI Test.suite" timestamp="2018-11-14 11:16:06.986 -0500"
+ tests="1"  failures="0" errors="0" time="1.251000">
+  <properties>
+   <property name="RunDate" value="2018-11-14 11:16:06.986 -0500"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Navigate to eggplant.script" assertions="1" status="success"  time="1.235">
+  </testcase>
+ </testsuite>
+</testsuites>

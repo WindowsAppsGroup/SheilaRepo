@@ -1,0 +1,83 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="Case Studies">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-11-13 17:04:11 -0500</FirstRun>
+  <LastRun>2018-11-14 11:16:16 -0500</LastRun>
+  <TotalTimeOnSuccess>1.040000</TotalTimeOnSuccess>
+ </script>
+ <script name="Accelerators validate">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-11-14 11:03:04 -0500</FirstRun>
+  <LastRun>2018-11-14 11:16:40 -0500</LastRun>
+  <TotalTimeOnSuccess>0.597000</TotalTimeOnSuccess>
+ </script>
+ <script name="Clean Up">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>7</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-11-13 17:04:14 -0500</FirstRun>
+  <LastRun>2018-11-14 11:16:42 -0500</LastRun>
+  <TotalTimeOnSuccess>0.544000</TotalTimeOnSuccess>
+ </script>
+ <script name="Accelerators">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-11-14 11:03:02 -0500</FirstRun>
+  <LastRun>2018-11-14 11:16:38 -0500</LastRun>
+  <TotalTimeOnSuccess>0.650000</TotalTimeOnSuccess>
+ </script>
+ <script name="Load tester">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-11-14 11:02:30 -0500</FirstRun>
+  <LastRun>2018-11-14 11:02:30 -0500</LastRun>
+  <TotalTimeOnSuccess>2.637000</TotalTimeOnSuccess>
+ </script>
+ <script name="Load tester validate">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-11-14 11:02:34 -0500</FirstRun>
+  <LastRun>2018-11-14 11:02:34 -0500</LastRun>
+  <TotalTimeOnSuccess>0.147000</TotalTimeOnSuccess>
+ </script>
+ <script name="Navigate to eggplant">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>11</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-11-13 15:45:35 -0500</FirstRun>
+  <LastRun>2018-11-14 11:16:30 -0500</LastRun>
+  <TotalTimeOnSuccess>13.995000</TotalTimeOnSuccess>
+ </script>
+ <script name="CEO validate">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-11-14 11:03:30 -0500</FirstRun>
+  <LastRun>2018-11-14 11:03:30 -0500</LastRun>
+  <TotalTimeOnSuccess>0.078000</TotalTimeOnSuccess>
+ </script>
+ <script name="CEO">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-11-14 11:03:27 -0500</FirstRun>
+  <LastRun>2018-11-14 11:03:27 -0500</LastRun>
+  <TotalTimeOnSuccess>0.344000</TotalTimeOnSuccess>
+ </script>
+ <script name="Case studies validate">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-11-13 17:04:13 -0500</FirstRun>
+  <LastRun>2018-11-14 11:16:18 -0500</LastRun>
+  <TotalTimeOnSuccess>0.337000</TotalTimeOnSuccess>
+ </script>
+</statistics>

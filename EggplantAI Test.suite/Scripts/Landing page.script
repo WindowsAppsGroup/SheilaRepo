@@ -1,0 +1,44 @@
+﻿(*** Autosnippet script "Lanading page" generated 2018-11-13 by smitchell. Keep this comment for use with Eggplant AI. ***)
+(* Already generated snippets can be edited in the script below *)
+(* To customize the snippet generation templates, affecting snippets generated in the future,
+go to Eggplant > Preferences... > Script > General > Customize *)
+
+
+(* Autosnippets for Button "PRODUCTS&Solutions" *)
+
+to handle PRODUCTS_Solutions_Click
+	Moveto imageName:"PRODUCTS&Solutions", waitFor:8
+end PRODUCTS_Solutions_Click
+
+-----------------------------------
+
+
+(* Autosnippets for Button "INDUSTRIES" *)
+
+to handle INDUSTRIES_Click
+	Moveto imageName:"INDUSTRIES", waitFor:8
+end INDUSTRIES_Click
+
+-----------------------------------
+
+
+(* Autosnippets for Button "COMMUNITY" *)
+
+to handle COMMUNITY_Click
+	Moveto imageName:"COMMUNITY", waitFor:8
+end COMMUNITY_Click
+
+-----------------------------------
+
+
+(* Autosnippets for Button "SUPPORT" *)
+
+to handle SUPPORT_Click
+	Moveto imageName:"SUPPORT", waitFor:8
+end SUPPORT_Click
+
+-----------------------------------
+
+
+(*** End of Autosnippet script Lanading page.script ***)
+

@@ -1,0 +1,5 @@
+﻿if imagefound ("CaseStudies")
+	logsuccess "Case Studies image found"
+else
+	logerror "Case Studies page not opened"
+end if

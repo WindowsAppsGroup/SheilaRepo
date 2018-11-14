@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Accelerators validate">
+ <run>
+  <RunDate>2018-11-14 11:03:04.144 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>0.301000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20181114_110304.144/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-11-14 11:16:40.883 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>0.296000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20181114_111640.883/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

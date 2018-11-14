@@ -1,0 +1,4 @@
+﻿2018-11-13 17:04:14.891 -0500	START		Running Clean Up.script	1	execute string	(null)
+2018-11-13 17:04:14.955 -0500	typetext		[controlKey]w	1	on_clean_up	Clean Up.script
+2018-11-13 17:04:14.972 -0500	EndTestCase		(Duration:"0.064", Errors:"0", Exceptions:"0", StartTime:"2018-11-13 17:04:14 -0500", Successes:"1", TestCase:"Clean Up.script", Warnings:"0")	1	execute string	(null)
+2018-11-13 17:04:15.165 -0500	SUCCESS		Execution Time 0:00:00 Clean Up.script	1	execute string	(null)

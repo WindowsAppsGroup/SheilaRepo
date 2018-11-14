@@ -1,0 +1,5 @@
+﻿if imagefound ("Accelerators")
+	logsuccess "Accelerators image found"
+else
+	logerror "Accelerators page not opened"
+end if

@@ -1,0 +1,5 @@
+﻿2018-11-14 11:16:16.415 -0500	START		Running Case Studies.script	1	execute string	(null)
+2018-11-14 11:16:16.597 -0500	imagelocation	(TEXT:"CASE STUDIES")	at (560, 301)	1	on_case_studies	Case Studies.script
+2018-11-14 11:16:16.699 -0500	click		at (560, 301)	1	on_case_studies	Case Studies.script
+2018-11-14 11:16:16.718 -0500	EndTestCase		(Duration:"0.301", Errors:"0", Exceptions:"0", StartTime:"2018-11-14 11:16:16 -0500", Successes:"1", TestCase:"Case Studies.script", Warnings:"0")	1	execute string	(null)
+2018-11-14 11:16:16.953 -0500	SUCCESS		Execution Time 0:00:00 Case Studies.script	1	execute string	(null)
