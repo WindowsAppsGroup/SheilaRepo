@@ -1,0 +1,2 @@
+﻿put "C:/Users/smitchell/Desktop/" into directory
+CaptureScreen(name:directory&"CurrentLogo")
